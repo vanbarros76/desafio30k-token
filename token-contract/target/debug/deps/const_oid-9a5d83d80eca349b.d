@@ -1,0 +1,11 @@
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\libconst_oid-9a5d83d80eca349b.rmeta: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md
+
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\const_oid-9a5d83d80eca349b.d: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md
+
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\lib.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\checked.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\arcs.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\encoder.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\error.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\parser.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.9.6\src\../README.md:

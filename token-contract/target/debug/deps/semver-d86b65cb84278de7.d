@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\libsemver-d86b65cb84278de7.rmeta: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs
+
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\semver-d86b65cb84278de7.d: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs
+
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src/lib.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\backport.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\display.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\error.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\eval.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\identifier.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\impls.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\semver-1.0.23\src\parse.rs:

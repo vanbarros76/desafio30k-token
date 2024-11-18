@@ -1,0 +1,10 @@
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\libprimeorder-83896073fd9d92d8.rmeta: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\point_arithmetic.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\affine.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\field.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\projective.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\../README.md
+
+\\wsl.localhost\Ubuntu\home\vanessa\Desafio30k-4.1\token-contract\target\debug\deps\primeorder-83896073fd9d92d8.d: C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\lib.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\point_arithmetic.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\affine.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\field.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\projective.rs C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\../README.md
+
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\lib.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\point_arithmetic.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\affine.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\field.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\projective.rs:
+C:\Users\vanes\.cargo\registry\src\index.crates.io-6f17d22bba15001f\primeorder-0.13.6\src\../README.md:
