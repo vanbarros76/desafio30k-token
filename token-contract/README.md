@@ -54,21 +54,18 @@ This project is part of NearX Challenge 4.1, focused on token development on the
 
 ### Prerequisites
 
-<div align="left">
-
 bash
-Install Rust
+# Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-Install Soroban CLI
-cargo install --locked soroban-cli
-Install WASM target
-rustup target add wasm32-unknown-unknown
 
-</div>
+# Install Soroban CLI
+cargo install --locked soroban-cli
+
+# Install WASM target
+rustup target add wasm32-unknown-unknown
 
 ### Building
 
-bash
 cd token-contract
 cargo build --target wasm32-unknown-unknown --release
 
@@ -85,20 +82,19 @@ stellar contract deploy \
 
 ## 📁 Project Structure
 
-<div align="left">
-
+```plaintext
 token-contract/
 ├── 📂 contracts/
-│ └── 📂 desafio30k/
-│ ├── 📂 src/
-│ │ ├── 📄 lib.rs # Core contract implementation
-│ │ ├── 📄 admin.rs # Admin functionality
-│ │ ├── 📄 storage.rs # State management
-│ │ └── 📄 token.rs # Token operations
-│ └── 📄 Cargo.toml
+│   └── 📂 desafio30k/
+│       ├── 📂 src/
+│       │   ├── 📄 lib.rs        # Core contract implementation
+│       │   ├── 📄 admin.rs     # Admin functionality
+│       │   ├── 📄 storage.rs   # State management
+│       │   └── 📄 token.rs     # Token operations
+│       └── 📄 Cargo.toml
 └── 📄 Cargo.toml
+```
 
-</div>
 
 ## 🔍 Important Links
 
